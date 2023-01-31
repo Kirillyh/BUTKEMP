@@ -1,0 +1,15 @@
+C:\Users\smako\OneDrive\Рабочий стол\BUTkemp\PROGRAM\Urok1\bin\Debug\net7.0\Urok1.exe
+C:\Users\smako\OneDrive\Рабочий стол\BUTkemp\PROGRAM\Urok1\bin\Debug\net7.0\Urok1.deps.json
+C:\Users\smako\OneDrive\Рабочий стол\BUTkemp\PROGRAM\Urok1\bin\Debug\net7.0\Urok1.runtimeconfig.json
+C:\Users\smako\OneDrive\Рабочий стол\BUTkemp\PROGRAM\Urok1\bin\Debug\net7.0\Urok1.dll
+C:\Users\smako\OneDrive\Рабочий стол\BUTkemp\PROGRAM\Urok1\bin\Debug\net7.0\Urok1.pdb
+C:\Users\smako\OneDrive\Рабочий стол\BUTkemp\PROGRAM\Urok1\obj\Debug\net7.0\Urok1.csproj.AssemblyReference.cache
+C:\Users\smako\OneDrive\Рабочий стол\BUTkemp\PROGRAM\Urok1\obj\Debug\net7.0\Urok1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smako\OneDrive\Рабочий стол\BUTkemp\PROGRAM\Urok1\obj\Debug\net7.0\Urok1.AssemblyInfoInputs.cache
+C:\Users\smako\OneDrive\Рабочий стол\BUTkemp\PROGRAM\Urok1\obj\Debug\net7.0\Urok1.AssemblyInfo.cs
+C:\Users\smako\OneDrive\Рабочий стол\BUTkemp\PROGRAM\Urok1\obj\Debug\net7.0\Urok1.csproj.CoreCompileInputs.cache
+C:\Users\smako\OneDrive\Рабочий стол\BUTkemp\PROGRAM\Urok1\obj\Debug\net7.0\Urok1.dll
+C:\Users\smako\OneDrive\Рабочий стол\BUTkemp\PROGRAM\Urok1\obj\Debug\net7.0\refint\Urok1.dll
+C:\Users\smako\OneDrive\Рабочий стол\BUTkemp\PROGRAM\Urok1\obj\Debug\net7.0\Urok1.pdb
+C:\Users\smako\OneDrive\Рабочий стол\BUTkemp\PROGRAM\Urok1\obj\Debug\net7.0\Urok1.genruntimeconfig.cache
+C:\Users\smako\OneDrive\Рабочий стол\BUTkemp\PROGRAM\Urok1\obj\Debug\net7.0\ref\Urok1.dll
